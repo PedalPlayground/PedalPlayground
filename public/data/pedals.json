@@ -4942,6 +4942,13 @@
 		"Image": "boredbrain-terminal-v2.png"
 	},
 	{
+		"Brand": "Boredbrain",
+		"Name": "Transmutron",
+		"Width": 5.88,
+		"Height": 3.82,
+		"Image": "boredbrain-transmutron.png"
+	},
+	{
 		"Brand": "BOSS",
 		"Name": "AC-2 Acoustic Simulator",
 		"Width": 2.875,
@@ -8867,6 +8874,13 @@
 		"Width": 2.88,
 		"Height": 4.8,
 		"Image": "cornerstone-zefiro.png"
+	},
+	{
+		"Brand": "Cosmic Loop FX",
+		"Name": "Parallelarator",
+		"Width": 3.01,
+		"Height": 4.8,
+		"Image": "cosmicloopfx-parallelarator.png"
 	},
 	{
 		"Brand": "Cosmodio",
@@ -12881,6 +12895,13 @@
 	},
 	{
 		"Brand": "EarthQuaker",
+		"Name": "Ghost Echo",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "earthquaker-ghost-echo-v1.png"
+	},
+	{
+		"Brand": "EarthQuaker",
 		"Name": "Ghost Echo V2",
 		"Width": 2.6,
 		"Height": 5.02,
@@ -13000,7 +13021,7 @@
 	},
 	{
 		"Brand": "EarthQuaker",
-		"Name": "Organizer",
+		"Name": "Organizer V2",
 		"Width": 2.6,
 		"Height": 4.94,
 		"Image": "earthquaker-organizer.png"
@@ -13683,6 +13704,13 @@
 		"Width": 7.5,
 		"Height": 4.94,
 		"Image": "electrode-leveling-amplifier.png"
+	},
+	{
+		"Brand": "Effettidiclara",
+		"Name": "Agata",
+		"Width": 2.75,
+		"Height": 4.56,
+		"Image": "effettidiclara-agata.png"
 	},
 	{
 		"Brand": "Electric Love",
@@ -15590,7 +15618,7 @@
 	},
 	{
 		"Brand": "Eno Music",
-		"Name": "TC-80 BMF Fuzz",
+		"Name": "TC-18 BMF Fuzz",
 		"Width": 1.8,
 		"Height": 3.77,
 		"Image": "eno-tc80.png"
@@ -21470,6 +21498,13 @@
 	},
 	{
 		"Brand": "Idiotbox",
+		"Name": "Liquid Heat",
+		"Width": 2.6,
+		"Height": 5.02,
+		"Image": "idiotbox-liquid-heat.png"
+	},
+	{
+		"Brand": "Idiotbox",
 		"Name": "No Moon",
 		"Width": 7.38,
 		"Height": 4.88,
@@ -22859,6 +22894,13 @@
 		"Name": "3 Series Oil Can Delay",
 		"Width": 2.68,
 		"Height": 4.42,
+		"Image": "jhs-3-series-oil-can-delay.png"
+	},
+	{
+		"Brand": "JHS",
+		"Name": "3 Series Oil Can Delay (Black)",
+		"Width": 2.68,
+		"Height": 4.42,
 		"Image": "jhs-3-series-oil.png"
 	},
 	{
@@ -22884,10 +22926,24 @@
 	},
 	{
 		"Brand": "JHS",
+		"Name": "3 Series Rotary Chorus",
+		"Width": 2.68,
+		"Height": 4.42,
+		"Image": "jhs-3-series-rotary-chorus.png"
+	},
+	{
+		"Brand": "JHS",
 		"Name": "3 Series Screamer",
 		"Width": 2.68,
 		"Height": 4.42,
 		"Image": "jhs-3-series-screamer.png"
+	},
+	{
+		"Brand": "JHS",
+		"Name": "3 Series Tape Delay",
+		"Width": 2.68,
+		"Height": 4.42,
+		"Image": "jhs-3-series-tape-delay.png"
 	},
 	{
 		"Brand": "JHS",
@@ -26829,6 +26885,13 @@
 		"Width": 2.6,
 		"Height": 4.95,
 		"Image": "lichtlaerm-aquaria.png"
+	},
+	{
+		"Brand": "Lichtlaerm",
+		"Name": "Aquaria V2",
+		"Width": 2.6,
+		"Height": 4.95,
+		"Image": "lichtlaerm-aquaria-v2.png"
 	},
 	{
 		"Brand": "Lichtlaerm",
@@ -39191,6 +39254,13 @@
 		"Width": 5.18,
 		"Height": 3.7,
 		"Image": "shark-warzy-drive.png"
+	},
+	{
+		"Brand": "Sheeran Guitars",
+		"Name": "Sheeran Looper+",
+		"Width": 8.52,
+		"Height": 5.84,
+		"Image": "sheeran-looper-plus.png"
 	},
 	{
 		"Brand": "Shift Line",
